@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--An invalid document-->
+    <greeting>
+
+             Hello,World!
+
+    </greeting>
+    <greeting>
+
+            Hola,el Mundo!
+
+    </greeting>

@@ -1,0 +1,8 @@
+<!--NOT legal XML markup-->
+<h1>
+    Elements are case sensitive
+</h1>
+<!--legal XML markup-->
+<h1>
+   Elements are case sensitive
+</h1>
